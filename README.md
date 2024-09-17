@@ -7,7 +7,6 @@ I'm currently studying at Bursa Technical University in Turkey, with a passion f
 
 Skills:  JS / HTML / CSS/ JAVA/ C
 
-- 🔭 I’m currently working on in my company 
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: suhailkhaleqi@gmail.com 
 
