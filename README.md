@@ -8,7 +8,6 @@
 
 Hi, I'm Suhail Khaleqi 👋
 I'm currently studying at Bursa Technical University in Turkey, with a passion for design and development. I'm focused on honing my skills in web development and cybersecurity as I work towards becoming a well-rounded developer. Always curious and driven to learn, I'm exploring new tools, frameworks, and technologies to improve my craft.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaleqisuhail)](https://github.com/anuraghazra/github-readme-stats)
 
  ### skills and experience
 * ⚛ JavaScript <br>
