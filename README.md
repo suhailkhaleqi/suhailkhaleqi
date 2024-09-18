@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Suhail
 #### Design, Development and technologies 
-![suhail_github_banner_reduced_width](https://github.com/user-attachments/assets/5a6d2aea-2657-4701-91ea-560fad97c8a9)
+![suhail_github_banner_reduced_height](https://github.com/user-attachments/assets/ab0f12c0-aecc-4710-a256-bde71ae9811a)
+
 
 
 
