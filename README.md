@@ -1,5 +1,6 @@
 ![suhail_github_banner_reduced_height](https://github.com/user-attachments/assets/ab0f12c0-aecc-4710-a256-bde71ae9811a)
-### Hi there 👋,I'M Suhail
+# Hi there 👋,I'M Suhail
+
 #### Design, Development and technologies 
 
 
@@ -8,14 +9,17 @@
 Hi, I'm Suhail Khaleqi 👋
 I'm currently studying at Bursa Technical University in Turkey, with a passion for design and development. I'm focused on honing my skills in web development and cybersecurity as I work towards becoming a well-rounded developer. Always curious and driven to learn, I'm exploring new tools, frameworks, and technologies to improve my craft.
 
-### skills and experience
-* ⚛ JavaScript
-*💻 HTML,CSS
-*📱Java
-*🕸C
+ ### skills and experience
+* ⚛ JavaScript <br>
+*💻 HTML,CSS <br>
+*📱Java <br>
+*🕸C <br>
 
 
-- 🌱 I’m currently learning Javascript 
+
+
+- 🌱 I’m currently learning Javascript
+- ### contanct
 - 📫 How to reach me: suhailkhaleqi@gmail.com 
 
 
