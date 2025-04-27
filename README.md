@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkhaleqi&show_icons=true&theme=radical" alt="Suhail's GitHub stats" />
-</p>
+
 # Hi there 👋,I'M Suhail
 
 #### Design, Development and technologies 
