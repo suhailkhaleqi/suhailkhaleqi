@@ -1,4 +1,6 @@
-![suhail_github_banner_reduced_height](https://github.com/user-attachments/assets/ab0f12c0-aecc-4710-a256-bde71ae9811a)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailkhaleqi&show_icons=true&theme=radical" alt="Suhail's GitHub stats" />
+</p>
 # Hi there 👋,I'M Suhail
 
 #### Design, Development and technologies 
