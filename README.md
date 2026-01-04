@@ -7,19 +7,9 @@
 
 
 Hi, I'm Suhail Khaleqi 👋
-I'm currently studying at Bursa Technical University in Turkey, with a passion for design and development. I'm focused on honing my skills in web development and cybersecurity as I work towards becoming a well-rounded developer. Always curious and driven to learn, I'm exploring new tools, frameworks, and technologies to improve my craft.
-
- ### skills and experience
-* ⚛ JavaScript <br>
-*💻 HTML,CSS <br>
-*📱Java <br>
-*🕸C <br>
-*📽PHP
+I'm currently studying at Bursa Technical University in Turkey, with a passion for design and development. Always curious and driven to learn, I'm exploring new tools, frameworks, and technologies to improve my craft.
 
 
-
-
-- 🌱 I’m currently learning Javascript
 - ### contanct
 - 📫 How to reach me: suhailkhaleqi@gmail.com 
 
