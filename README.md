@@ -7,7 +7,7 @@
 
 
 Hi, I'm Suhail Khaleqi 
-Computer Engineering student at Bursa Technical University with a strong interest in software development, project management, intelligent systems, and technology-driven solutions. Hands-on experience in developing academic and personal projects using web technologies and programming languages. Highly motivated, team-oriented, and eager to apply problem-solving and communication skills while contributing to initiatives that create meaningful societal impact.
+Computer Engineering student at Bursa Technical University with a strong interest in software development, project management, intelligent systems, and technology-driven solutions. Hands-on experience in developing academic and personal projects using web technologies.Highly motivated, team-oriented, and eager to apply problem-solving and communication skills while contributing to initiatives that create meaningful societal impact.
 
 
 - ### contanct
