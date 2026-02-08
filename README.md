@@ -1,5 +1,5 @@
 
-# Hi there ,I'M Suhail
+# Hi,I'M Suhail
 
 #### Design, Development and technologies 
 
