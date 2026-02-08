@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📫How to reach me: suhailkhaleqi@gmail.com</p>
+<h4 align="left">📫How to reach me: suhailkhaleqi@gmail.com</h4>
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
